@@ -1,7 +1,6 @@
 # NEO Compresion (NEO-CP)
 
-NEO
-:	Notificacion de Eventos Operativos
+
 ## Descripcion de fases del proyecto
 
 - ### Fase 1 - Carga NEO-CP en Rosario (COG-NEO-CP)
@@ -43,5 +42,5 @@ gantt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI3Mjc3OTZdfQ==
+eyJoaXN0b3J5IjpbLTY2MTQ4OTcyNSwtMTUwMjcyNzc5Nl19
 -->
