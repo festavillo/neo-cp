@@ -25,7 +25,7 @@
 gantt
     title NEO Compresion
     dateFormat  YYYY-MM-DD
-    section Fase 1
+    section Fase 1  
     Analisis           :a1, 2020-05-11, 20d
     Desarrollo         :a2, after a1, 30d
     Implementacion piloto (5 Plantas)     :a3, after a2  , 20d
@@ -47,6 +47,6 @@ section Fase 3
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ4NzgxMjgsLTE1MDI3Mjc3OTZdfQ
-==
+eyJoaXN0b3J5IjpbNzE0ODMzNDI0LC0xODE0ODc4MTI4LC0xNT
+AyNzI3Nzk2XX0=
 -->
