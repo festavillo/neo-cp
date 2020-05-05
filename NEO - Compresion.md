@@ -38,14 +38,15 @@ gantt
     Implementacion completa     :a8, after a7  , 20d
 
 section Fase 3
-    Analisis           :a8, after a7 , 20d
-    Desarrollo         :a9, after a8, 30d
-    Implementacion piloto (5 Plantas)     :a10, after a9  , 20d
-    Implementacion completa     :a11, after a10  , 20d
+    Analisis           :a9, after a8 , 20d
+    Desarrollo         :a10, after a9, 30d
+    Implementacion piloto (5 Plantas)     :a11, after a10  , 20d
+    Implementacion completa     :a12, after a11  , 20d
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTU2Mjg2MCwtMTUwMjcyNzc5Nl19
+eyJoaXN0b3J5IjpbLTE4MTQ4NzgxMjgsLTE1MDI3Mjc3OTZdfQ
+==
 -->
