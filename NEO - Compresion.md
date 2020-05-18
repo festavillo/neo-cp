@@ -26,6 +26,8 @@ NEO
 gantt
     title NEO Compresion
     dateFormat  YYYY-MM-DD
+    ```
+excludes                  :e
     axisFormat  %Y-%m
     section Fase 
     Analisis           :a1, 20-05-11, 20d
@@ -44,5 +46,5 @@ gantt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYzMjM5MiwxMzM5OTI0NDE5XX0=
+eyJoaXN0b3J5IjpbLTc0OTY3MjQ1NCwxMzM5OTI0NDE5XX0=
 -->
