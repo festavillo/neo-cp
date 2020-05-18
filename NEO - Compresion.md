@@ -64,11 +64,19 @@ section Fase 3
 
 ```
 
-# Herramientas de desarrollo previstas
+# Lenguajes de programacion y Herramientas de desarrollo previstas
 
 ## Back-end
 
+### - Laravel
+### - PHP
+
+## Front-end
+
+### Laravel
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODg2NDcwNF19
+eyJoaXN0b3J5IjpbMjA2NzIzMDAxOF19
 -->
