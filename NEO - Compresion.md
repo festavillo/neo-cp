@@ -22,28 +22,7 @@ NEO
 
 ## Cronograma preliminar de ejecucion del proyecto
 
-```mermaid
-gantt
-    title NEO Compresion
-    dateFormat  YYYY-MM-DD
-    #excludes                  :YYYY-MM-DD
-    axisFormat  %y-%m
-    section Fase 
-    Analisis           :a1, 20-05-11, 20d
-    Desarrollo         :a2, after a1, 30d
-    Implementacion piloto (5 Plantas)     :a3, after a2  , 20d
-    Implementacion completa     :a4, after a3  , 20d
-
-    section Fase 2
-    Analisis           :a5, after a4 , 20d
-    Desarrollo         :a6, after a5, 30d
-    Implementacion piloto (5 Plantas)     :a3, after a2  , 20d
-    Implementacion completa     :a4, after a3  , 20d
-
-
-```
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzc5MzUyOCwxMzM5OTI0NDE5XX0=
+eyJoaXN0b3J5IjpbLTE4NTcyOTMzNzIsMTMzOTkyNDQxOV19
 -->
