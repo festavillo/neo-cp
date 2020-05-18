@@ -25,9 +25,9 @@ NEO
 ```mermaid
 gantt
     title NEO Compresion
-    dateFormat:  YYYY-MM-DD
-    excludes:  YYYY-MM-DD
-    axisFormat:  %Y-%m
+    dateFormat  YYYY-MM-DD
+    #excludes                  :YYYY-MM-DD
+    axisFormat  %Y-%m-
     section Fase 
     Analisis           :a1, 20-05-11, 20d
     Desarrollo         :a2, after a1, 30d
@@ -40,9 +40,10 @@ gantt
     Implementacion piloto (5 Plantas)     :a3, after a2  , 20d
     Implementacion completa     :a4, after a3  , 20d
 
+
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjg5Nzk1NywxMzM5OTI0NDE5XX0=
+eyJoaXN0b3J5IjpbNTEyODY0MjY5LDEzMzk5MjQ0MTldfQ==
 -->
