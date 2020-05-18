@@ -1,8 +1,4 @@
 ---
-
-
----
-
 <h1 id="neo-compresion-neo-cp">NEO Compresion (NEO-CP)</h1>
 <dl>
 <dt>NEO</dt>
@@ -68,15 +64,16 @@ section Fase 3
 
 ## Back-end
 
-### - Laravel
 ### - PHP
+### - Laravel
 
 ## Front-end
 
-### Laravel
+### - Javascript
+### - VUE.JS
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzIzMDAxOF19
+eyJoaXN0b3J5IjpbLTE4MDg1MTU3MDldfQ==
 -->
