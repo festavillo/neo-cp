@@ -17,6 +17,13 @@
  - ### Fase 3 - Integracion Telemetria de Planta Compresora (COG-NEO-CP)
 	 - Integracion de principales variables con lectura automaticaReglas de validacion de datos manuales y automaticos
 	 - Reportes de causas de carga manual</li>
+
+01 Análisis de Requerimientos
+02 Diseño de Solución
+03 Desarrollo de Solución
+04 Testing de Solución
+05 Implementación de Solución
+
 </ul>
 </li>
 </ul>
@@ -75,5 +82,6 @@ section Fase 3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODkyNjY3OCwtMTc2MjExMDEyNV19
+eyJoaXN0b3J5IjpbLTE0NDM4Mzg5NjEsMTE5ODkyNjY3OCwtMT
+c2MjExMDEyNV19
 -->
