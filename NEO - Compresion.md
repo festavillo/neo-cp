@@ -7,7 +7,10 @@
 
 ## Descripcion de fases del proyecto
 
-- ### Fase 1 - Carga NEO-CP en Rosario (COG-NEO-CP)Carga de parametros comunes a todos los clientesNiveles de Carga y Control: Operador  -  Supervisor  - COG.Reportes periodicos basicos
+- ### Fase 1 - Carga NEO-CP en Rosario (COG-NEO-CP)
+	- Carga de parametros comunes a todos los clientes
+	- Niveles de Carga y Control: Operador  -  Supervisor  - COG.
+	- Reportes periodicos basicos
 
  - ### Fase 2  - Carga NEO-CP en Plantas Compresoras (HMI-NEO-CP)Carga de los partes diarios en el servidor de Telemetria local de cada Planta CompresoraIncorporacion de parametros propios de cada Cliente/ContratoSincronizacion periodica con COG-NEO-CP (NEO Rosario)
 	
@@ -72,5 +75,5 @@ section Fase 3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIxMTAxMjVdfQ==
+eyJoaXN0b3J5IjpbMTE5ODkyNjY3OCwtMTc2MjExMDEyNV19
 -->
