@@ -21,8 +21,8 @@
 01 Análisis de Requerimientos
 02 Diseño de Solución
 03 Desarrollo de Solución
-04 Testing de Solución
-05 Implementación de Solución
+04 - Testing de Solución
+05 - Implementación de Solución
 
 </ul>
 </li>
@@ -82,6 +82,6 @@ section Fase 3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM4Mzg5NjEsMTE5ODkyNjY3OCwtMT
-c2MjExMDEyNV19
+eyJoaXN0b3J5IjpbMjAwMDM2Njk1MywxMTk4OTI2Njc4LC0xNz
+YyMTEwMTI1XX0=
 -->
